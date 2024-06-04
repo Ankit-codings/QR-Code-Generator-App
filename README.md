@@ -12,7 +12,8 @@ GitHub-https://github.com/Ankit-codings
 
 YouTube-https://youtube.com/@coding-ankit?si=IJ11DK59Hc50pYoj
  
-![Uploading image.png…]()
+ ![image](https://github.com/Ankit-codings/QR-Code-Generator-App/assets/164986214/130d057b-fee2-41ff-b36d-5b7ef1188a81)
+
 
 
 
