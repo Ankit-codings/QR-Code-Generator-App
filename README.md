@@ -1,5 +1,6 @@
 # QR-Code-Generator-App  
-Live Demo -  
+
+Live Demo -  https://ankit-codings.github.io/QR-Code-Generator-App/
 
 Join Us Instagram - https://www.instagram.com/_ankit_rider_07?igsh=Ymd1Nm9wcDFia20=
 
@@ -11,6 +12,7 @@ GitHub-https://github.com/Ankit-codings
 
 YouTube-https://youtube.com/@coding-ankit?si=IJ11DK59Hc50pYoj
  
+![Uploading image.png…]()
 
 
 
