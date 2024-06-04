@@ -1,5 +1,16 @@
-# QR-Code-Generator-App using html, css, javascript.
-![image](https://github.com/Ankit-codings/QR-Code-Generator-App/assets/164986214/3d1a94b2-f6e0-460d-bd30-7a152a820881)
+# QR-Code-Generator-App  
+Live Demo -  
+
+Join Us Instagram - https://www.instagram.com/_ankit_rider_07?igsh=Ymd1Nm9wcDFia20=
+
+Telegram - https:// t.me/ankit_rider_07
+
+Whatsapp- https://whatsapp.com/channel/0029VaVInCA2ZjCjXEf2IC2I
+
+GitHub-https://github.com/Ankit-codings
+
+YouTube-https://youtube.com/@coding-ankit?si=IJ11DK59Hc50pYoj
+ 
 
 
 
